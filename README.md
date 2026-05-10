@@ -14,10 +14,10 @@ Building scalable systems, solving hard algorithmic problems, and exploring AI-p
 
 #  About Me
 
-🎓 B.E Electronics and Communication Engineering @ **DSEC Perambalur**  
-💻 Full-Stack Developer (React, Next.js, Node.js)   
-⚡ Passionate about scalable systems, **Generative AI applications**, and intelligent developer tools
-🤖 Building **AI-powered platforms using LLMs, voice AI, and intelligent automation**
+ B.E Electronics and Communication Engineering @ **DSEC Perambalur**  
+ Full-Stack Developer (React, Next.js, Node.js)   
+ Passionate about scalable systems, **Generative AI applications**, and intelligent developer tools
+ Building **AI-powered platforms using LLMs, voice AI, and intelligent automation**
 
 I enjoy building **production-grade web applications**, designing **clean APIs**, and solving **complex algorithmic problems**.
 
@@ -63,7 +63,7 @@ Frameworks & APIs:
 
 Groq API • Gemini API • VAPI • OpenAI-compatible APIs
 
-# 🧰 Technologies
+#  Technologies
 
 <p align="center">
 
@@ -73,40 +73,12 @@ Groq API • Gemini API • VAPI • OpenAI-compatible APIs
 
 ---
 
-# 🔥 GitHub Streak
+#  GitHub Streak
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=VIGNESH-T2005&theme=tokyonight"/>
 </p>
 
----
-
-# 🧠 Competitive Programming
-
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/vignesh_webdev?theme=dark&font=baloo"/>
-</p>
-
-🏆 **Knight on LeetCode**  
-📈 Peak Rating **1863**  
-🧩 **1100+ problems solved**
-
----
-
-# 🏆 Achievements
-
-🥇 **Knight rank on LeetCode**  
-🧩 Solved **1100+ algorithmic problems**  
-
-Participated in:
-
-🚀 ISRO Hackathon  
-🚀 Adobe India Hackathon  
-🚀 TVS E.P.I.C 7.0  
-
-🏅 Winner — **Hindustan Yuva Sansad Debate**
-
-# 🤝 Connect With Me
 
 <p align="center">
 
@@ -120,7 +92,7 @@ Participated in:
 
 ---
 
-# 🐍 Contribution Snake
+#  Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AmbyHasan/AmbyHasan/output/snake.svg" alt="Snake animation" />
@@ -128,4 +100,4 @@ Participated in:
 
 ---
 
-⭐ *“Code. Optimize. Build. Repeat.”*
+ *“Code. Optimize. Build. Repeat.”*
