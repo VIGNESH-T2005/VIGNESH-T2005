@@ -29,7 +29,15 @@ Building scalable systems, solving hard algorithmic problems, and exploring AI-p
 I enjoy building **production-grade web applications**, designing **clean APIs**, and solving **complex algorithmic problems**.
 
 ---
+#  Technologies
 
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,c,js,python,java,react,nextjs,nodejs,express,mongodb,postgres,mysql,git,vercel,tailwind" />
+
+</p>
+
+---
 #  Tech Stack
 
 ###  Languages
@@ -70,15 +78,7 @@ Frameworks & APIs:
 
 Groq API • Gemini API • VAPI • OpenAI-compatible APIs
 
-#  Technologies
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,c,js,python,java,react,nextjs,nodejs,express,mongodb,postgres,mysql,git,vercel,tailwind" />
-
-</p>
-
----
 
 #  GitHub Streak
 
