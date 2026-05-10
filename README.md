@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vignesh T</h1>
-<p align="center">
+<h2 align="center">
 
 <a href="https://www.linkedin.com/in/vignesh-t-web-dev/">LinkedIn</a> •
 <a href="https://github.com/VIGNESH-T2005">GitHub</a> •
@@ -7,7 +7,7 @@
 <a href="mailto:vigneshhari8739@gmail.com">Email</a> •
 <a href="https://leetcode.com/u/vignesh_webdev/">LeetCode</a>
 
-</p>
+</h2>
 
 
 <h3 align="center">
