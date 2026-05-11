@@ -60,15 +60,14 @@ LLMs • Groq (LLaMA 3.1) • Gemini • VAPI • Prompt Engineering • AI APIs
 
 ---
 
-# 🤖 Generative AI
+#  Generative AI
 
 Experienced in building **AI-powered applications using Large Language Models (LLMs)**.
 
 Technologies & Concepts:
 
 • LLM Integration (LLaMA, Gemini)  
-• AI-powered chat systems  
-• Voice AI interaction systems  
+• AI-powered chat systems   
 • Prompt engineering  
 • AI transcript analysis  
 • AI feedback generation  
@@ -76,7 +75,7 @@ Technologies & Concepts:
 
 Frameworks & APIs:
 
-Groq API • Gemini API • VAPI • OpenAI-compatible APIs
+Groq API •
 
 
 
