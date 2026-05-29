@@ -90,12 +90,6 @@ Groq API •
 
 ---
 
-#  Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AmbyHasan/AmbyHasan/output/snake.svg" alt="Snake animation" />
-</p>
-
----
 
  *“Code. Optimize. Build. Repeat.”*
