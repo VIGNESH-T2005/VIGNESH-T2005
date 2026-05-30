@@ -40,7 +40,6 @@ Status   : Open to Internships and Full-Time Opportunities
 ```
 
 - Building **production-grade MERN stack applications** with clean architecture and scalable APIs
-- Integrating **LLMs and AI tools** into real web products — not just wrappers, actual systems
 - Strong in **Data Structures and Algorithms** — consistent LeetCode practitioner
 - **ECE background** gives me a systems-level perspective that most web developers don't have
 - I care about writing code that is **readable, maintainable, and deployable**
