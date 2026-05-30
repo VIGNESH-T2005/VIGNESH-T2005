@@ -36,9 +36,9 @@
 
 ---
 
-## 🧬 `whoami`
+## 🧬 whoami
 
-```typescript
+typescript
 const vignesh = {
   name        : "Vignesh T",
   location    : "Tamil Nadu, India  🇮🇳",
