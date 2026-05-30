@@ -1,20 +1,9 @@
-<!-- ╔══════════════════════════════════════════════════════════════╗
-     ║         VIGNESH T — GITHUB PROFILE README                   ║
-     ║         "Terminal OS" Theme — One-of-a-kind Edition          ║
-     ╚══════════════════════════════════════════════════════════════╝ -->
-
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0d0d2b,100:000000&height=3&section=header"/>
-</div>
-
-<!-- GLITCH NAME BANNER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,3,12,17,24&height=280&section=header&text=VIGNESH%20T&fontSize=90&fontColor=ffffff&animation=scaleIn&fontAlignY=60&rotate=0&stroke=00F5FF&strokeWidth=2&desc=ECE%20%E2%87%94%20Code%20%7C%20AI%20%E2%87%94%20Product%20%7C%20Build%20%E2%87%94%20Ship&descSize=18&descAlignY=80&descColor=a78bfa" width="100%"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,3,12,17,24&height=280&section=header&text=VIGNESH%20T&fontSize=90&fontColor=ffffff&animation=scaleIn&fontAlignY=60&stroke=00F5FF&strokeWidth=2&desc=ECE%20%E2%87%94%20Code%20%7C%20AI%20%E2%87%94%20Product%20%7C%20Build%20%E2%87%94%20Ship&descSize=18&descAlignY=80&descColor=a78bfa"/>
 </div>
 
 <br/>
 
-<!-- TERMINAL BADGES -->
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=00FF9C&background=00000000&center=true&vCenter=true&width=680&height=45&lines=%24+whoami+%E2%86%92+Full+Stack+Dev+%2B+AI+Builder;%24+locate+--skill+%E2%86%92+React+%7C+Next.js+%7C+Node+%7C+LLMs;%24+status+--career+%E2%86%92+OPEN+TO+OPPORTUNITIES+%F0%9F%9F%A2;%24+echo+%22Code.+Optimize.+Build.+Repeat.%22)](https://git.io/typing-svg)
@@ -23,11 +12,11 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/_%20linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vignesh-t-web-dev/)
-[![Portfolio](https://img.shields.io/badge/_%20portfolio-9333EA?style=flat-square&logo=vercel&logoColor=white)](https://vignesh-me.vercel.app/)
-[![GitHub](https://img.shields.io/badge/_%20github-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/VIGNESH-T2005)
-[![LeetCode](https://img.shields.io/badge/_%20leetcode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/vignesh_webdev/)
-[![Email](https://img.shields.io/badge/_%20email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vigneshhari8739@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vignesh-t-web-dev/)
+[![Portfolio](https://img.shields.io/badge/portfolio-9333EA?style=flat-square&logo=vercel&logoColor=white)](https://vignesh-me.vercel.app/)
+[![GitHub](https://img.shields.io/badge/github-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/VIGNESH-T2005)
+[![LeetCode](https://img.shields.io/badge/leetcode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/vignesh_webdev/)
+[![Email](https://img.shields.io/badge/email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vigneshhari8739@gmail.com)
 
 ![Visitor](https://komarev.com/ghpvc/?username=VIGNESH-T2005&style=flat-square&color=00FF9C&label=visitors)
 [![followers](https://img.shields.io/github/followers/VIGNESH-T2005?style=flat-square&color=a78bfa&label=followers)](https://github.com/VIGNESH-T2005)
@@ -48,17 +37,17 @@
 
   name     : Vignesh T
   role     : Full Stack Dev & AI Builder
-  location : Tamil Nadu, India 🇮🇳
+  location : Tamil Nadu, India
   edu      : B.E. ECE @ DSEC Perambalur
-  status   : 🟢 Open to Opportunities
+  status   : Open to Opportunities
 
 ╭─ vignesh@universe ~
 ╰─❯ cat superpowers.txt
 
-  ⚡  ECE × CS hybrid thinker
-  🤖  Production AI app builder
-  🧮  Algorithmic problem solver
-  🚢  Ships real products, not demos
+  [1] ECE x CS hybrid thinker
+  [2] Production AI app builder
+  [3] Algorithmic problem solver
+  [4] Ships real products, not demos
 
 ╭─ vignesh@universe ~
 ╰─❯ echo $LOOKING_FOR
@@ -82,28 +71,28 @@
 <div align="center">
 
 ```
-                        ┌─────────────────────────────────────────────────┐
-                        │              VIGNESH'S SKILL TREE                │
-                        └─────────────────────────────────────────────────┘
+  +-------------------------------------------------+
+  |              VIGNESH'S SKILL TREE               |
+  +-------------------------------------------------+
 
-  ┌──────────────┐      ┌──────────────┐      ┌──────────────┐      ┌──────────────┐
-  │   LANGUAGES  │      │   FRONTEND   │      │   BACKEND    │      │  DATABASES   │
-  │──────────────│      │──────────────│      │──────────────│      │──────────────│
-  │  C++   ████  │      │  React ████  │      │  Node  ████  │      │  Mongo ████  │
-  │  JS    ████  │      │  Next  ████  │      │  Express ██  │      │  Postgres██  │
-  │  Python ███  │      │  Tailwind██  │      │  REST  ████  │      │  MySQL ████  │
-  │  Java  ███   │      │  HTML  ████  │      │  Auth  ███   │      │  Prisma ███  │
-  └──────────────┘      └──────────────┘      └──────────────┘      └──────────────┘
-                                          │
-                              ┌───────────▼────────────┐
-                              │     🤖 GEN AI STACK     │
-                              │────────────────────────│
-                              │  LLaMA 3.1  via Groq   │
-                              │  Google Gemini API     │
-                              │  VAPI  Voice  Agents   │
-                              │  Prompt  Engineering   │
-                              │  AI Chat  Pipelines    │
-                              └────────────────────────┘
+  +--------------+  +--------------+  +--------------+  +--------------+
+  |  LANGUAGES   |  |  FRONTEND    |  |  BACKEND     |  |  DATABASES   |
+  |--------------|  |--------------|  |--------------|  |--------------|
+  |  C++   ####  |  |  React ####  |  |  Node  ####  |  |  Mongo ####  |
+  |  JS    ####  |  |  Next  ####  |  |  Express ##  |  |  Postgres ## |
+  |  Python ###  |  |  Tailwind ## |  |  REST  ####  |  |  MySQL ####  |
+  |  Java  ###   |  |  HTML  ####  |  |  Auth  ###   |  |  Prisma ###  |
+  +--------------+  +--------------+  +--------------+  +--------------+
+                                 |
+                     +-----------v-----------+
+                     |    [AI] GEN AI STACK  |
+                     |-----------------------|
+                     |  LLaMA 3.1 via Groq   |
+                     |  Google Gemini API    |
+                     |  VAPI Voice Agents    |
+                     |  Prompt Engineering   |
+                     |  AI Chat Pipelines    |
+                     +-----------------------+
 ```
 
 </div>
@@ -147,11 +136,11 @@
 
 | `module` | `stack` | `status` |
 |:---|:---|:---|
-| 🧠 LLM-Powered Chat Systems | LLaMA 3.1 · Groq · Context Pipelines | `✅ shipped` |
-| 🎙️ Voice AI Agents | VAPI · Real-time Conversations | `✅ shipped` |
-| 📊 AI Transcript Analyzer | Gemini · NLP · Auto-Feedback | `✅ shipped` |
-| 📚 AI Learning Assistants | RAG · Quiz Generation · Adaptive Flow | `🔨 building` |
-| 🤝 Multi-Agent Workflows | Agentic Pipelines · Tool Use | `🔬 exploring` |
+| 🧠 LLM-Powered Chat Systems | LLaMA 3.1 · Groq · Context Pipelines | `shipped` |
+| 🎙️ Voice AI Agents | VAPI · Real-time Conversations | `shipped` |
+| 📊 AI Transcript Analyzer | Gemini · NLP · Auto-Feedback | `shipped` |
+| 📚 AI Learning Assistants | RAG · Quiz Generation · Adaptive Flow | `building` |
+| 🤝 Multi-Agent Workflows | Agentic Pipelines · Tool Use | `exploring` |
 
 </div>
 
@@ -170,7 +159,7 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VIGNESH-T2005&bg_color=0D1117&color=00FF9C&line=a78bfa&point=FF6B35&area=true&hide_border=true&area_color=a78bfa)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VIGNESH-T2005&bg_color=0D1117&color=00FF9C&line=a78bfa&point=FF6B35&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -191,17 +180,16 @@
 <div align="center">
 
 ```
-  ╔══════════════════════════════════════════════════════════════════╗
-  ║                    WHY HIRE / COLLABORATE?                       ║
-  ╠══════════════════════════════════════════════════════════════════╣
-  ║  🔌  ECE × CS     →  I think in circuits AND in code            ║
-  ║  🤖  Groq + VAPI  →  Real-time AI, not just ChatGPT wrappers    ║
-  ║  🧮  LeetCode     →  Every feature I build has algorithmic       ║
-  ║                       thinking behind it                         ║
-  ║  🐳  Docker       →  I ship to prod, not just localhost          ║
-  ║  🔗  Prisma ORM   →  Type-safe, scalable DB design from day 1   ║
-  ║  📐  System Design →  I plan before I code                       ║
-  ╚══════════════════════════════════════════════════════════════════╝
+  +------------------------------------------------------------------+
+  |                   WHY HIRE / COLLABORATE?                        |
+  +------------------------------------------------------------------+
+  |  [ECE x CS]      I think in circuits AND in code                 |
+  |  [Groq + VAPI]   Real-time AI, not just ChatGPT wrappers         |
+  |  [LeetCode DSA]  Algorithmic thinking behind every feature       |
+  |  [Docker]        I ship to prod, not just localhost              |
+  |  [Prisma ORM]    Type-safe, scalable DB design from day 1        |
+  |  [Sys Design]    I plan before I code                            |
+  +------------------------------------------------------------------+
 ```
 
 </div>
@@ -224,11 +212,11 @@
 <div align="center">
 
 ```
-  ┌─────────────────────────────────────────────────┐
-  │  🎯  Open for   →  Internships · Full-Time       │
-  │  💬  Talk about →  AI · Full Stack · DSA         │
-  │  📩  Best reach →  LinkedIn DM or Email          │
-  └─────────────────────────────────────────────────┘
+  +---------------------------------------------------+
+  |  Open for   ->  Internships . Full-Time           |
+  |  Talk about ->  AI . Full Stack . DSA             |
+  |  Best reach ->  LinkedIn DM or Email              |
+  +---------------------------------------------------+
 ```
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vignesh-t-web-dev/)
