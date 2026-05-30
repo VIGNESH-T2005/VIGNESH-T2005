@@ -1,233 +1,147 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,3,12,17,24&height=280&section=header&text=VIGNESH%20T&fontSize=90&fontColor=ffffff&animation=scaleIn&fontAlignY=60&stroke=00F5FF&strokeWidth=2&desc=ECE%20%E2%87%94%20Code%20%7C%20AI%20%E2%87%94%20Product%20%7C%20Build%20%E2%87%94%20Ship&descSize=18&descAlignY=80&descColor=a78bfa"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Vignesh%20T&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20ECE%20Engineer&descSize=17&descAlignY=68&descColor=93c5fd"/>
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=60A5FA&center=true&vCenter=true&width=600&height=50&lines=Building+scalable+web+applications;MERN+Stack+Developer;ECE+%2B+Software+Engineering;Open+to+Internships+%26+Full-Time+Roles)](https://git.io/typing-svg)
+
 </div>
 
 <br/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=00FF9C&background=00000000&center=true&vCenter=true&width=680&height=45&lines=%24+whoami+%E2%86%92+Full+Stack+Dev+%2B+AI+Builder;%24+locate+--skill+%E2%86%92+React+%7C+Next.js+%7C+Node+%7C+LLMs;%24+status+--career+%E2%86%92+OPEN+TO+OPPORTUNITIES+%F0%9F%9F%A2;%24+echo+%22Code.+Optimize.+Build.+Repeat.%22)](https://git.io/typing-svg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vignesh-t-web-dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://vignesh-me.vercel.app/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/vignesh_webdev/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vigneshhari8739@gmail.com)
 
-</div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vignesh-t-web-dev/)
-[![Portfolio](https://img.shields.io/badge/portfolio-9333EA?style=flat-square&logo=vercel&logoColor=white)](https://vignesh-me.vercel.app/)
-[![GitHub](https://img.shields.io/badge/github-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/VIGNESH-T2005)
-[![LeetCode](https://img.shields.io/badge/leetcode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/vignesh_webdev/)
-[![Email](https://img.shields.io/badge/email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vigneshhari8739@gmail.com)
-
-![Visitor](https://komarev.com/ghpvc/?username=VIGNESH-T2005&style=flat-square&color=00FF9C&label=visitors)
-[![followers](https://img.shields.io/github/followers/VIGNESH-T2005?style=flat-square&color=a78bfa&label=followers)](https://github.com/VIGNESH-T2005)
+![Profile Views](https://komarev.com/ghpvc/?username=VIGNESH-T2005&style=flat-square&color=60A5FA&label=Profile+Views)
 
 </div>
 
 ---
 
-## 🖥️ `~/about_me`
+## About Me
 
-<table>
-<tr>
-<td width="55%">
+I'm a B.E. Electronics and Communication Engineering student at DSEC Perambalur with a strong passion for building full-stack web applications. I enjoy bridging the gap between hardware-level thinking and modern software engineering.
 
-```bash
-╭─ vignesh@universe ~
-╰─❯ cat identity.yaml
-
-  name     : Vignesh T
-  role     : Full Stack Dev & AI Builder
-  location : Tamil Nadu, India
-  edu      : B.E. ECE @ DSEC Perambalur
-  status   : Open to Opportunities
-
-╭─ vignesh@universe ~
-╰─❯ cat superpowers.txt
-
-  [1] ECE x CS hybrid thinker
-  [2] Production AI app builder
-  [3] Algorithmic problem solver
-  [4] Ships real products, not demos
-
-╭─ vignesh@universe ~
-╰─❯ echo $LOOKING_FOR
-
-  Internships | Full-Time | Collabs
-```
-
-</td>
-<td width="45%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=VIGNESH-T2005&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=a78bfa&text_color=FFFFFF&rank_icon=github" width="100%"/>
-
-</td>
-</tr>
-</table>
+- Currently building production-grade MERN stack applications
+- Strong foundation in Data Structures and Algorithms
+- Experienced with REST API design, authentication, and database modeling
+- Looking for **internship** and **full-time** opportunities in software engineering
 
 ---
 
-## 🧩 `~/skill_tree --visualize`
+## Tech Stack
 
-<div align="center">
-
-```
-  +-------------------------------------------------+
-  |              VIGNESH'S SKILL TREE               |
-  +-------------------------------------------------+
-
-  +--------------+  +--------------+  +--------------+  +--------------+
-  |  LANGUAGES   |  |  FRONTEND    |  |  BACKEND     |  |  DATABASES   |
-  |--------------|  |--------------|  |--------------|  |--------------|
-  |  C++   ####  |  |  React ####  |  |  Node  ####  |  |  Mongo ####  |
-  |  JS    ####  |  |  Next  ####  |  |  Express ##  |  |  Postgres ## |
-  |  Python ###  |  |  Tailwind ## |  |  REST  ####  |  |  MySQL ####  |
-  |  Java  ###   |  |  HTML  ####  |  |  Auth  ###   |  |  Prisma ###  |
-  +--------------+  +--------------+  +--------------+  +--------------+
-                                 |
-                     +-----------v-----------+
-                     |    [AI] GEN AI STACK  |
-                     |-----------------------|
-                     |  LLaMA 3.1 via Groq   |
-                     |  Google Gemini API    |
-                     |  VAPI Voice Agents    |
-                     |  Prompt Engineering   |
-                     |  AI Chat Pipelines    |
-                     +-----------------------+
-```
-
-</div>
-
----
-
-## 🔬 `~/tech_stack --badges`
-
-<div align="center">
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-FFFFFF?style=for-the-badge&logo=nextdotjs&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404040?style=for-the-badge&logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+### Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-**🤖 AI Stack**
+---
 
-![Groq](https://img.shields.io/badge/Groq_LLaMA_3.1-F55036?style=for-the-badge&logo=meta&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![VAPI](https://img.shields.io/badge/VAPI_Voice_AI-7C3AED?style=for-the-badge&logoColor=white)
-![Prompt Eng](https://img.shields.io/badge/Prompt_Engineering-00D9FF?style=for-the-badge&logo=openai&logoColor=white)
+## GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VIGNESH-T2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIGNESH-T2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=VIGNESH-T2005&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🤖 `~/ai_projects --what-i-build`
+## Activity
 
 <div align="center">
 
-| `module` | `stack` | `status` |
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VIGNESH-T2005&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## What I Build
+
+| Project Type | Technologies | Description |
 |:---|:---|:---|
-| 🧠 LLM-Powered Chat Systems | LLaMA 3.1 · Groq · Context Pipelines | `shipped` |
-| 🎙️ Voice AI Agents | VAPI · Real-time Conversations | `shipped` |
-| 📊 AI Transcript Analyzer | Gemini · NLP · Auto-Feedback | `shipped` |
-| 📚 AI Learning Assistants | RAG · Quiz Generation · Adaptive Flow | `building` |
-| 🤝 Multi-Agent Workflows | Agentic Pipelines · Tool Use | `exploring` |
-
-</div>
-
-> _"I don't just integrate AI APIs — I design the architecture around them."_
+| Full Stack Web Apps | React, Node.js, MongoDB | End-to-end MERN applications |
+| REST APIs | Express.js, JWT, Prisma | Secure, scalable backend services |
+| Authentication Systems | JWT, bcrypt, sessions | Login, signup, role-based access |
+| Database Design | MongoDB, PostgreSQL, MySQL | Schema design and query optimization |
+| UI Components | React, TailwindCSS | Responsive, clean interfaces |
 
 ---
 
-## 📊 `~/github_stats --all`
+## Currently Learning
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIGNESH-T2005&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=FFFFFF&langs_count=8"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=VIGNESH-T2005&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00FF9C&ring=a78bfa&fire=FF6B35&currStreakLabel=00FF9C&sideLabels=a78bfa"/>
-
-</div>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VIGNESH-T2005&bg_color=0D1117&color=00FF9C&line=a78bfa&point=FF6B35&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+- Advanced system design patterns
+- TypeScript across the full stack
+- Testing with Jest and Vitest
+- CI/CD pipelines and deployment
 
 ---
 
-## 🏆 `~/achievements --display`
+## Let's Connect
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=VIGNESH-T2005&theme=matrix&no-frame=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+I'm actively looking for **internships** and **full-time roles** in software engineering.
+Feel free to reach out — I'd love to collaborate or chat about tech!
 
-</div>
-
----
-
-## ⚡ `~/differentiation --why-me`
-
-<div align="center">
-
-```
-  +------------------------------------------------------------------+
-  |                   WHY HIRE / COLLABORATE?                        |
-  +------------------------------------------------------------------+
-  |  [ECE x CS]      I think in circuits AND in code                 |
-  |  [Groq + VAPI]   Real-time AI, not just ChatGPT wrappers         |
-  |  [LeetCode DSA]  Algorithmic thinking behind every feature       |
-  |  [Docker]        I ship to prod, not just localhost              |
-  |  [Prisma ORM]    Type-safe, scalable DB design from day 1        |
-  |  [Sys Design]    I plan before I code                            |
-  +------------------------------------------------------------------+
-```
-
-</div>
-
----
-
-## 🌱 `~/currently --learning`
-
-```diff
-+ Agentic AI workflows & multi-agent architectures
-+ System design: distributed systems, queues, caching
-+ Advanced LLM patterns: RAG, tool-use, memory
-! Targeting top product & engineering internships 2025
-```
-
----
-
-## 📬 `~/connect --open-to-work`
-
-<div align="center">
-
-```
-  +---------------------------------------------------+
-  |  Open for   ->  Internships . Full-Time           |
-  |  Talk about ->  AI . Full Stack . DSA             |
-  |  Best reach ->  LinkedIn DM or Email              |
-  +---------------------------------------------------+
-```
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vignesh-t-web-dev/)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-9333EA?style=for-the-badge&logo=vercel&logoColor=white)](https://vignesh-me.vercel.app/)
-[![Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vigneshhari8739@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vignesh_webdev/)
+[![Portfolio](https://img.shields.io/badge/View_My_Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://vignesh-me.vercel.app/)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vigneshhari8739@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,17,24&height=130&section=footer&text=%24+exit+--motto+%22Code.+Optimize.+Build.+Repeat.%22&fontColor=00FF9C&fontSize=16&fontAlignY=70&animation=twinkling"/>
+
+*"First, solve the problem. Then, write the code." — John Johnson*
+
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&fontColor=93c5fd&fontSize=14&animation=twinkling"/>
 </div>
