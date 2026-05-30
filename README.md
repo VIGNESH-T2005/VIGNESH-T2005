@@ -2,7 +2,192 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Vignesh%20T&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20ECE%20Engineer&descSize=17&descAlignY=68&descColor=93c5fd"/>
 </div>
 
+<div align="center"># <div align="center">
+
+# 🚀 Vignesh T
+
+### Full Stack Developer • AI Engineer • Problem Solver
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Applications;Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Generative+AI+Explorer;DSA+%26+System+Design+Enthusiast" />
+
+</div>
+
+---
+
 <div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C2FF?style=for-the-badge\&logo=vercel)](https://vignesh-me.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vignesh_T-0077B5?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/vignesh-t-web-dev/)
+[![GitHub](https://img.shields.io/badge/GitHub-VIGNESH--T2005-181717?style=for-the-badge\&logo=github)](https://github.com/VIGNESH-T2005)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge\&logo=leetcode)](https://leetcode.com/u/vignesh_webdev/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge\&logo=gmail)](mailto:vigneshhari8739@gmail.com)
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+🎓 Electronics & Communication Engineering Student at **Dhanalakshmi Srinivasan Engineering College**
+
+💡 Passionate about building:
+
+* Scalable Full Stack Applications
+* AI-Powered Products
+* Intelligent Developer Tools
+* Automation Systems
+* Algorithmic Solutions
+
+🔥 Currently Learning
+
+* Advanced React Ecosystem
+* System Design
+* Java & DSA
+* Generative AI Architectures
+* AI Agents & Voice AI
+
+---
+
+# 🛠️ Tech Arsenal
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,java,js,python"/>
+</p>
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind"/>
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+## Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
+</p>
+
+## Tools & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel"/>
+</p>
+
+## AI / Generative AI
+
+* LLM Integration
+* Prompt Engineering
+* Groq API
+* Gemini API
+* Voice AI
+* AI Agents
+* AI Chat Systems
+* AI Feedback Engines
+* Transcript Intelligence
+
+---
+
+# 🚀 What I'm Building
+
+### 🤖 AI Interview Platform
+
+AI-powered interview simulation with:
+
+* Voice AI
+* Real-time Evaluation
+* Feedback Analytics
+* Performance Tracking
+
+### 📊 RFID Attendance System
+
+* ESP8266
+* RFID Integration
+* Web Dashboard
+* Analytics Reporting
+
+### 🌐 Full Stack SaaS Applications
+
+* React
+* Next.js
+* Node.js
+* PostgreSQL
+* Authentication Systems
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=VIGNESH-T2005&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIGNESH-T2005&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VIGNESH-T2005&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VIGNESH-T2005&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=VIGNESH-T2005&theme=tokyonight&row=1&column=7"/>
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+✅ Master Java & DSA
+
+✅ Solve 500+ LeetCode Problems
+
+✅ Build Production-Level AI Products
+
+✅ Crack Top Product-Based Companies
+
+✅ Contribute to Open Source
+
+✅ Become a Strong Full Stack + AI Engineer
+
+---
+
+<div align="center">
+
+### ⚡ "I don't just write code. I engineer solutions."
+
+### 🚀 Building the future with Full Stack + AI
+
+</div>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=60A5FA&center=true&vCenter=true&width=600&height=50&lines=Building+scalable+web+applications;MERN+Stack+Developer;ECE+%2B+Software+Engineering;Open+to+Internships+%26+Full-Time+Roles)](https://git.io/typing-svg)
 
