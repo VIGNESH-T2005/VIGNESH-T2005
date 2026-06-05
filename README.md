@@ -123,11 +123,12 @@ Status   : Open to Internships and Full-Time Opportunities
 ---
 
 ## LeetCode Stats
+<div align="center">
+  
+[![LeetCode](https://img.shields.io/badge/LeetCode-vignesh-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/vignesh_webdev/)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-vicky-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/vignesh_webdev/)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/vignesh_webdev?theme=dark&font=Poppins&ext=heatmap)
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/vignesh_webdev?theme=nord)
+</div>
 ---
 
 ## Connect With Me
