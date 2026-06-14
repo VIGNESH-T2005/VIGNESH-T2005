@@ -1,13 +1,12 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Vignesh%20T&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=MERN%20Stack%20Developer%20%7C%20AI%20Builder%20%7C%20ECE%20Engineer&descSize=18&descAlignY=65&descColor=93c5fd"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=75&duration=1&pause=99999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=900&height=120&lines=Vignesh+T" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=20&pause=1200&color=60A5FA&center=true&vCenter=true&width=800&height=50&lines=MERN+Stack+Developer+%7C+AI+Builder+%7C+ECE+Engineer;Building+Scalable+Web+Applications;Integrating+AI+into+Real+Products;Open+to+Internships+%26+Full-Time+Roles" />
+
 </div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=60A5FA&center=true&vCenter=true&width=650&height=50&lines=Full+Stack+MERN+Developer;Building+Scalable+Web+Applications;Integrating+AI+into+Real+Products;Open+to+Internships+%26+Full-Time+Roles)](https://git.io/typing-svg)
-
-</div>
-
 <br/>
 
 <div align="center">
@@ -129,7 +128,7 @@ Status   : Open to Internships and Full-Time Opportunities
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/vignesh_webdev?theme=nord)
 </div>
----
+
 
 ## Connect With Me
 
@@ -147,14 +146,10 @@ If you are building something interesting or want to collaborate, let's talk.
 
 </div>
 
----
-
 <div align="center">
   <i>"First, solve the problem. Then, write the code."</i>
 </div>
 
 <br/>
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling"/>
-</div>
+
