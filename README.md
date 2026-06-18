@@ -146,9 +146,7 @@ If you are building something interesting or want to collaborate, let's talk.
 
 </div>
 
-<div align="center">
-  <i>"First, solve the problem. Then write the code"</i>
-</div>
+
 
 <br/>
 
