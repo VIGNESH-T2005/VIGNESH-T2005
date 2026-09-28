@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=20&pause=1200&color=60A5FA&center=true&vCenter=true&width=800&height=50&lines=MERN+Stack+Developer+%7C+AI+Builder+%7C+ECE+Engineer;Building+Scalable+Web+Applications;Integrating+AI+into+Real+Products;Open+to+Internships+%26+Full-Time+Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=20&pause=1200&color=60A5FA&center=true&vCenter=true&width=800&height=50&lines=Software+Developer+%7C+AI+Builder+%7C+ECE+Engineer;Building+Scalable+Web+Applications;Integrating+AI+into+Real+Products;Open+to+Internships+%26+Full-Time+Roles" />
 
 </div>
 <br/>
@@ -34,16 +34,9 @@
 Name     : Vignesh T
 Degree   : B.E. Electronics and Communication Engineering
 College  : DSEC Perambalur, Tamil Nadu, India
-Role     : Full Stack Developer (MERN) + AI Builder
+Role     : Full Stack Developer + AI Builder
 Status   : Open to Internships and Full-Time Opportunities
 ```
-
-- Building **production-grade MERN stack applications** with clean architecture and scalable APIs
-- Strong in **Data Structures and Algorithms** — consistent LeetCode practitioner
-- **ECE background** gives me a systems-level perspective that most web developers don't have
-- I care about writing code that is **readable, maintainable, and deployable**
-
----
 
 ## Tech Stack
 
@@ -80,18 +73,6 @@ Status   : Open to Internships and Full-Time Opportunities
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-## What I Build
-
-| Area | Stack | Details |
-|:---|:---|:---|
-| Full Stack Web Apps | React, Node.js, Express, MongoDB | Complete MERN applications with auth, APIs, and DB |
-| REST APIs | Express.js, JWT | Secure, documented, scalable backend services |
-| AI-Integrated Apps | Groq, LLM APIs | Real products powered by large language models |
-| Database Design | MongoDB, PostgreSQL, MySQL | Schema design, indexing, and query optimization |
-| UI Interfaces | React, Next.js, TailwindCSS | Clean, responsive, component-driven frontends |
 
 ---
 
@@ -133,11 +114,6 @@ Status   : Open to Internships and Full-Time Opportunities
 ## Connect With Me
 
 <div align="center">
-
-I am actively looking for **internships** and **full-time software engineering roles**.
-If you are building something interesting or want to collaborate, let's talk.
-
-<br/>
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vignesh-t-web-dev/)
 [![Portfolio](https://img.shields.io/badge/View_My_Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://vignesh-me.vercel.app/)
